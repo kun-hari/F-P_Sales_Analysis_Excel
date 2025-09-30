@@ -101,3 +101,4 @@ The project dataset includes 1000 sales orders from 2023, with the following fil
 
 ## *Dashboard*
 
+![F&P_Sales_Analysis_Dashboard](F&P_Sales_Analysis_Dashboard.png)
